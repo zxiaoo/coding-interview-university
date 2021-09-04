@@ -585,7 +585,7 @@ But don't forget to do coding problems from above while you learn!
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [X] [Cheat sheet](http://bigocheatsheet.com/)
 
 Well, that's about enough of that. 
 
